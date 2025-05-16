@@ -4,7 +4,7 @@
 
 * Set up your working directory
 * YOU NEED TO MODIFY THIS PATH WHEN RUNNING THE CODE ON YOUR LOCAL ENVIRONMENT
-cd "C:/Users/langhe/Documents/GitHub/rdm2025/Stata"
+cd "C:\Users\langhe\Documents\GitHub\mscepi_rdm_user\Stata"
 
 ***************************************
 * Load and clean the village dataset *
